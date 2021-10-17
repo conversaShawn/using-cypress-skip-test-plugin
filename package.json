@@ -1,0 +1,22 @@
+{
+  "name": "testing-cypress-skip-test-plugin",
+  "version": "1.0.0",
+  "description": "this is to test the behavior or using the cypress-skip-test plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conversaShawn/using-cypress-skip-test-plugin.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conversaShawn/using-cypress-skip-test-plugin/issues"
+  },
+  "homepage": "https://github.com/conversaShawn/using-cypress-skip-test-plugin#readme"
+}

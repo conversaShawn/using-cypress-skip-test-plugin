@@ -1,0 +1,7 @@
+Cypress screenshots and videos
+cypress/screenshots
+cypress/videos
+
+Always
+node_modules
+.history
