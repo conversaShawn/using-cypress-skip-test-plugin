@@ -1,4 +1,4 @@
-This is for testing the expected behavior of the [cypress-skip-test plugin](https://github.com/cypress-io/cypress-skip-test)
+This is for testing the expected behavior of importing versus using a custom command with the [cypress-skip-test plugin](https://github.com/cypress-io/cypress-skip-test)
 
 ### 2. Fork this repo
 

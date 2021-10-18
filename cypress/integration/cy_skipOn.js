@@ -6,8 +6,7 @@
 
 const path = "https://example.cypress.io/";
 
-
-describe("checks for sync skip; aborting execution error", () => {
+describe("checks cy.skipOn for sync skip; aborting execution error", () => {
   before(() => {
     cy.visit(path);
   });

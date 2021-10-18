@@ -8,8 +8,7 @@ import { skipOn } from "@cypress/skip-test";
 
 const path = "https://example.cypress.io/";
 
-
-describe("checks for sync skip; aborting execution error", () => {
+describe("checks skipOn import for sync skip; aborting execution error", () => {
   before(() => {
     cy.visit(path);
   });
